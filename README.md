@@ -41,7 +41,7 @@ The following images show the schematic, board view, and 3D view of the voltage 
 
 #### 3D View
 
-![Voltage Regulator 3D View](voltage_regulator/voltage_regulator_3d.png)  
+![Voltage Regulator 3D View](voltage_regulator/Voltage_Regulator_3D_View.png)  
 *Figure 5: Voltage regulator 3D view*
 
 ---
