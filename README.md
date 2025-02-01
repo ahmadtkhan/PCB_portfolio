@@ -35,6 +35,7 @@ The following images show the schematic, board view, and 3D view of the voltage 
 *Figure 3: Voltage regulator schematic*
 
 #### Board View
+To reduce wiring VCC and GND nets were used globally and locally. For testing and debugging, 5 volt and GND probes were also used. 
 
 ![Voltage Regulator Board View](voltage_regulator/voltage_regulator.png)  
 *Figure 4: Voltage regulator board view*
@@ -82,6 +83,12 @@ The schematic and board view for the LED flasher are provided below:
 
 The Voltage Distribution Board is designed to route the input voltage to various loads, ensuring that each module receives its required power level. The input voltage is distributed across multiple branches, each tailored to the specifications of the connected circuitry. Detailed schematics and further design documentation for the Voltage Distribution Board will be provided in future updates.
 
+### Schematic and Board Design (EAGLE CAD)
+![Voltage_Distibution_schematic](votlage_distribution_board/distribution_board_schematic.png)  
+*Figure 10: Voltage distribution schematic*
+
+![Voltage_Distibution_board_view](votlage_distribution_board/voltage_distribution_board.png)
+*Figure 10: Voltage distribution board view*
 ---
 
 *For more information, refer to the repository folders where all images and supplementary files are stored.*
