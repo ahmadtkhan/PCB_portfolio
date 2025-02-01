@@ -87,7 +87,7 @@ The Voltage Distribution Board is designed to route the input voltage to various
 ![Voltage_Distibution_schematic](votlage_distribution_board/distribution_board_schematic.png)  
 *Figure 10: Voltage distribution schematic*
 
-![Voltage_Distibution_board_view](votlage_distribution_board/voltage_distribution_board.png)
+![Voltage_Distibution_board_view](votlage_distribution_board/voltage_distribution_board.png)  
 *Figure 11: Voltage distribution board view*
 
 ---
