@@ -92,4 +92,3 @@ The Voltage Distribution Board is designed to route the input voltage to various
 
 ---
 
-**
